@@ -1,0 +1,33 @@
+,용어,설명,,,,테이블 이름,설명
+,Ability,아이템 등에 붙은 능력치,,,,Config,주로 outgame의 config 값
+,Enhance,아이템 강화,,,,Patterns,인게임 장애물 패턴 정보
+,Quest,임무(퀘스트),,,,Item,아이템 정보
+,Episode,에피소드,,,,InGameSetting,인게임 config 값
+,Gacha,무작위 뽑기(랜덤박스),,,,Localization,문자열 국가 현지화 정보(번역)
+,InAppPurchase,인앱결제,,,,ItemLocalization,게임 실행 첫 로딩시 미리 필요한 번역을 하기위한 정보
+,Coin,게임 머니,,,,Ability,능력치 정보. 능력치란 아이템에 붙을 수 있는 모든 효과를 말한다
+,Cash,결제 캐쉬,,,,ItemAbility,해당 아이템이 가지는 어빌리티 종류 정보
+,Stamina,인게임 입장 티켓,,,,ItemAbilityValue,해당 아이템이 가지는 어빌리티 강화 수치에 맞는 능력치 정보
+,Character,캐릭터,,,,WhatNeedToEnhance,아이템 등이 강화를 하기 위해 필요한 재료 정보
+,Treasure,장비(유물),,,,WhatneedToEvolve,아이템이 진화를 하기 위해 필요한 재료 정보
+,Material,재료,,,,WhatNeedToBreakLimit,아이템이 한계돌파를 하기 위해 필요한 재료 정보
+,Achievement,업적,,,,ChanceOfGreateSuccess,아이템을 강화할때 대성공 할 확률을 가진 정보
+,Grade,아이템 등급,,,,TreasureEvoloveSupporter,보물을 진화시킬시 성공확률증대에 필요한 정보
+,Level,레벨,,,,TreasureEvoloveResult,보물 진화 성공시 증가되는 효과(랜덤하게 결정됨)의 정보
+,Skill,스킬,,,,InAppPurchase,OS에 따른 인앱결제 정보
+,Evolve,각성 or 진화,,,,Quest,퀘스트 정보
+,Chance,확률,,,,DailyQuest,일일 퀘스트 정보
+,Extract,추출,,,,QuestReward,퀘스트 보상 정보
+,TeamEffect,팀효과,,,,Gacha,가챠 정보
+,ExtendInven,인벤토리 확장,,,,GachaItem,가챠시 타입별로 획득할 수 있는 아이템 정보
+,BreakLimit,한계 돌파,,,,PlayerNeedExpForLevelUp,플레이어(유저) 레벨업에 필요한 경험치 정보
+,Number,개수,,,,CharacterNeedExpForLevelUp,캐릭터 레벨업에 필요한 경험치 정보
+,,,,,,Extract,아이템 추출시 획득하는 아이템 종류 정보
+,,,,,,EtractNumber,아이템 추출시 획득할 아이템을 몇개 획득 할 수 있을지 정하는 정보
+,,,,,,TeamEffect,아이템 팀효과를 위한 정보
+,,,,,,ExtendInven,인벤토리 확장 조건 정보(보물 슬롯 등)
+,,,,,,AttendanceReward,출석 보상
+,,,,,,Episode,에피소드 정보
+,,,,,,StageLoading,"인게임 로딩 시 출력되는 StageLoading 의 정보"
+,,,,,,InvitePlatformReward,친구 초대수를 달성하면 얻게되는 보상 정보
+,,,,,,Sound,사운드 정보
